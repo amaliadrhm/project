@@ -1,2 +1,0 @@
-# project
-all my stuff
